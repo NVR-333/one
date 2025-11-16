@@ -794,12 +794,12 @@
                     <li class="dropdown">
                         <a href="#"><i class="fas fa-th-large"></i> Categories <i class="fas fa-chevron-down"></i></a>
                         <div class="dropdown-content">
-                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
-                            <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
-                            <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
-                            <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
-                            <a href="#"><i class="fas fa-watch"></i> Accessories</a>
+                            <a href="#"><i class="fas fa-mobile-alt"></i> NVR Smartphones</a>
+                            <a href="#"><i class="fas fa-laptop"></i> NVR Laptops</a>
+                            <a href="#"><i class="fas fa-tshirt"></i> NVR Clothing</a>
+                            <a href="#"><i class="fas fa-headphones"></i> NVR Gadgets</a>
+                            <a href="#"><i class="fas fa-shoe-prints"></i> NVR Footwear</a>
+                            <a href="#"><i class="fas fa-watch"></i> NVR Accessories</a>
                         </div>
                     </li>
                     <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
